@@ -1,0 +1,74 @@
+antimage_ability - Скиллы героя
+antimage_main - Характеристики антимага и последние удачные игры
+arcwarden_ability - Скиллы героя
+arcwarden_main - Характеристики арк вардена и последние удачные игры
+bloodseeker_ability - Скиллы героя
+bloodseeker_main - Характеристика блудсикера и последние удачные игры
+bountyhunter_ability - Скиллы героя
+bountyhunter_main - Характеристики баунти хантера и последние удачные игры
+broodmother_ability - Скиллы героя
+broodmother_main - Характеристики бруды и последние удачные игры
+clinkz_ability - Скиллы героя
+clinkz_main - Характеристики клинкза и последние удачные игры
+drowranger_ability - Скиллы героя
+drowranger_main - Характеристики траксы и последние удачные игры
+emberspirit_ability - Скиллы героя
+emberspirit_main - Характеристики спирита и последние удачные игры
+facelessvoid_ability - Скиллы героя
+facelessvoid_main - Характеристики войда и последние удачные игры
+gyrocopter_ability - Скиллы героя
+gyrocopter_main - Характеристики коптера и последние удачные игры
+juggernaut_ability - Скиллы героя
+juggernaut_main - Характеристики джагера и последние удачные игры
+lonedruid_ability - Скиллы героя
+lonedruid_main - Характеристики друида и последние удачные игры
+luna_ability - Скиллы героя
+luna_main - Характеристики луны и последние удачные игры
+medusa_ability - Скиллы героя
+medusa_main - Характеристики медузы и последние удачные игры
+meepo_ability - Скиллы героя
+meepo_main - Характеристики мипо и последние удачные игры
+mirana_ability - Скиллы героя
+mirana_main - Характеристики мираны и последние удачные игры
+monkeyking_ability - Скиллы героя
+monkeyking_main - Характеристики макаки и последние удачные игры
+morphling_ability - Скиллы героя
+morphling_main - Характеристики морфа и последние удачные игры
+nagasiren_ability - Скиллы героя
+nagasiren_main - Характеристики сирены и последние удачные игры
+nyxassassin_ability - Скиллы героя
+nyxassassin_main - Характеристики нюкса и последние удачные игры
+pangolier_ability - Скиллы героя
+pangolier_main - Характеристики мушкетера и последние удачные игры
+phantomassassin_ability -Скиллы героя
+phantomassassin_main - Характеристики мортры и последние удачные игры
+phantomlancer_ability - Скиллы героя
+phantomlancer_main - Характеристики лансера и последние удачные игры
+razor_ability - Скиллы героя
+razor_main - Характеристики разора и последние удачные игры
+riki_ability - Скиллы героя
+riki_main - Характеристики рики и последние удачные игры
+shadowfiend_ability - Скиллы героя
+shadowfiend_main - Характеристики сфа и последние удачные игры
+slark_ability - Скиллы героя
+slark_main - Характеристики сларка и последние удачные игры
+sniper_ability - Скиллы героя
+sniper_main - Характеристики снайпераи последние удачные игры
+spectre_ability - Скиллы героя
+spectre_main - Характеристики спектры и последние удачные игры
+templarassassin_ability - Скиллы героя
+templarassassin_main - Характеристики ланаии и последние удачные игры
+terrorblade_ability - Скиллы героя
+terrorblade_main - Характеристики тера и последние удачные игры
+trollwarlord_ability - Скиллы героя
+trollwarlord_main - Характеристики троля и последние удачные игры
+ursa_ability - Скиллы героя
+ursa_main - Характеристики урсы и последние удачные игры
+vengefulspirit_ability - Скиллы героя
+vengefulspirit_main - Характеристики венги и последние удачные игры
+venomancer_ability - Скиллы героя
+venomancer_main - Характеристики веника и последние удачные игры
+viper_ability - Скиллы героя
+viper_main - Характеристики змеи и последние удачные игры
+weaver_ability - Скиллы героя
+weaver_main - Характеристики вивера и последние удачные игры
